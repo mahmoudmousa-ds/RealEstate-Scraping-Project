@@ -2,6 +2,7 @@
 ![img](<dashboard.jpg>)
 ## Project Overview
 ![alt text](image.png)
+
 This project focuses on analyzing the real estate market in the Riyadh region by scraping data from the **Bayut** website, cleaning and transforming it, performing feature engineering, and visualizing insights using 
 **Power BI and python**.
 
